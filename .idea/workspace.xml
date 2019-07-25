@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1781c6fa-44fe-41f7-96dc-77ff0106f9e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirdExercise.java" afterDir="false" />
+    <list default="true" id="1781c6fa-44fe-41f7-96dc-77ff0106f9e2" name="Default Changelist" comment="Third exercise">
+      <change afterPath="$PROJECT_DIR$/src/main/java/FourthExercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThirdExercise.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,7 +38,19 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/SecondExercise.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ThirdExercise.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,13 +59,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ThirdExercise.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FourthExercise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -75,6 +85,7 @@
         <option value="$PROJECT_DIR$/src/main/java/FirstExercise.java" />
         <option value="$PROJECT_DIR$/src/main/java/SecondExercise.java" />
         <option value="$PROJECT_DIR$/src/main/java/ThirdExercise.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FourthExercise.java" />
       </list>
     </option>
   </component>
@@ -170,9 +181,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThirdExercise">
+  <component name="RunManager" selected="Application.FourthExercise">
     <configuration name="FirstExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstExercise" />
+      <module name="FirstProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FourthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FourthExercise" />
       <module name="FirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -194,6 +212,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FourthExercise" />
         <item itemvalue="Application.ThirdExercise" />
         <item itemvalue="Application.SecondExercise" />
         <item itemvalue="Application.FirstExercise" />
@@ -210,7 +229,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564041844493</updated>
-      <workItem from="1564041846342" duration="2268000" />
+      <workItem from="1564041846342" duration="3693000" />
     </task>
     <task id="LOCAL-00001" summary="First Project">
       <created>1564042404679</created>
@@ -233,15 +252,21 @@
       <option name="project" value="LOCAL" />
       <updated>1564043068790</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Third exercise">
+      <created>1564044260298</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564044260298</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2268000" />
+    <option name="totallyTimeSpent" value="3693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -258,8 +283,8 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -280,7 +305,20 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Project" />
     <MESSAGE value="Second exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second exercise" />
+    <MESSAGE value="Third exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third exercise" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/FourthExercise.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -296,7 +334,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/SecondExercise.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -305,11 +343,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ThirdExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FourthExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
         </state>
       </provider>
     </entry>

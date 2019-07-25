@@ -11,8 +11,7 @@ public class ThirdExercise {
         System.out.println("Entry y");
         y = in.nextDouble();
 
-        result = ((sin(x)+cos(y))/(cos(x)-sin(y)))*(tan(x*y));
+        result = ((sin(x) + cos(y)) / (cos(x) - sin(y))) * (tan(x * y));
         System.out.println(result);
-
     }
 }
