@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1781c6fa-44fe-41f7-96dc-77ff0106f9e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SecondExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThirdExercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,16 +28,28 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/FirstExercise.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-end-line="22" />
+              <caret line="7" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SecondExercise.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SecondExercise.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ThirdExercise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+            <state relative-caret-position="238">
+              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,6 +74,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/FirstExercise.java" />
         <option value="$PROJECT_DIR$/src/main/java/SecondExercise.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ThirdExercise.java" />
       </list>
     </option>
   </component>
@@ -126,6 +139,10 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -153,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SecondExercise">
+  <component name="RunManager" selected="Application.ThirdExercise">
     <configuration name="FirstExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstExercise" />
       <module name="FirstProject" />
@@ -168,8 +185,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThirdExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirdExercise" />
+      <module name="FirstProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThirdExercise" />
         <item itemvalue="Application.SecondExercise" />
         <item itemvalue="Application.FirstExercise" />
       </list>
@@ -185,7 +210,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564041844493</updated>
-      <workItem from="1564041846342" duration="1035000" />
+      <workItem from="1564041846342" duration="2268000" />
     </task>
     <task id="LOCAL-00001" summary="First Project">
       <created>1564042404679</created>
@@ -201,11 +226,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564042554262</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Second exercise">
+      <created>1564043068790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564043068790</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1035000" />
+    <option name="totallyTimeSpent" value="2268000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -247,7 +279,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Project" />
+    <MESSAGE value="Second exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second exercise" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -256,14 +289,24 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/FirstExercise.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-end-line="22" />
+          <caret line="7" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SecondExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ThirdExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
