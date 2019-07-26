@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1781c6fa-44fe-41f7-96dc-77ff0106f9e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TenthExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EleventhExercise.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,18 +31,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
               <caret line="24" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ThirdExercise.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,14 +83,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/TenthExercise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="82" lean-forward="true" selection-start-line="20" selection-start-column="82" selection-end-line="20" selection-end-column="82" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="221">
+              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/EleventhExercise.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -142,6 +135,7 @@
         <option value="$PROJECT_DIR$/src/main/java/FifthExercise.java" />
         <option value="$PROJECT_DIR$/src/main/java/EighthExercise.java" />
         <option value="$PROJECT_DIR$/src/main/java/TenthExercise.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EleventhExercise.java" />
       </list>
     </option>
   </component>
@@ -242,9 +236,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TenthExercise">
+  <component name="RunManager" selected="Application.EleventhExercise">
     <configuration name="EighthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EighthExercise" />
+      <module name="FirstProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EleventhExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EleventhExercise" />
       <module name="FirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -264,13 +265,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SixthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SixthExercise" />
-      <module name="FirstProject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TenthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TenthExercise" />
       <module name="FirstProject" />
@@ -280,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EleventhExercise" />
         <item itemvalue="Application.TenthExercise" />
         <item itemvalue="Application.NinthExercise" />
         <item itemvalue="Application.EighthExercise" />
         <item itemvalue="Application.SeventhExercise" />
-        <item itemvalue="Application.SixthExercise" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +293,7 @@
       <option name="presentableId" value="Default" />
       <updated>1564041844493</updated>
       <workItem from="1564041846342" duration="6056000" />
-      <workItem from="1564121285706" duration="8577000" />
+      <workItem from="1564121285706" duration="8818000" />
     </task>
     <task id="LOCAL-00001" summary="First Project">
       <created>1564042404679</created>
@@ -378,11 +372,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564130200033</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Tenth exercise">
+      <created>1564132901632</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1564132901632</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14633000" />
+    <option name="totallyTimeSpent" value="14874000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -397,7 +398,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -406,7 +407,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -441,7 +442,8 @@
     <MESSAGE value="Seventh exercise" />
     <MESSAGE value="Eighth exercise" />
     <MESSAGE value="Ninth exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ninth exercise" />
+    <MESSAGE value="Tenth exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tenth exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -536,11 +538,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TenthExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="82" lean-forward="true" selection-start-line="20" selection-start-column="82" selection-end-line="20" selection-end-column="82" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="221">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/EleventhExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>
