@@ -16,7 +16,7 @@ public class SecondExercise {
         System.out.println("Enter c:");
         c = in.nextInt();
 
-        z = ((b+(sqrt(b*b+(4*a*c))))/(2*a))-(((a*a*a)*c)+(1/(b*b)));
+        z = ((b + (sqrt(b * b + (4 * a * c)))) / (2 * a)) - (((a * a * a) * c) + (1 / (b * b)));
         System.out.println("Your result z:" + z);
     }
 

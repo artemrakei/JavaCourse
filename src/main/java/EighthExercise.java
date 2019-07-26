@@ -18,8 +18,8 @@ public class EighthExercise {
         if (c > d) {
             c = d;
         }
-        if (a<c) {
-            a=c;
+        if (a < c) {
+            a = c;
         }
         System.out.println(a);
     }

@@ -14,7 +14,7 @@ public class FirstExercise {
         System.out.println("Enter c:");
         c = in.nextInt();
 
-        z=((a-3)*(b/2))+c;
+        z = ((a - 3) * (b / 2)) + c;
         System.out.println("Your result z:" + z);
     }
 
