@@ -2,29 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1781c6fa-44fe-41f7-96dc-77ff0106f9e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SecondStep/FirstExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FirstStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EightenthExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstStep/EightenthExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EighthExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstStep/EighthExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EleventhExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstStep/EleventhExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FiftenthExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstStep/FiftenthExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FifthExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstStep/FifthExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FirstExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstStep/FirstExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FourtenthExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstStep/FourtenthExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FourthExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstStep/FourthExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NineteenthExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstStep/NineteenthExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NinthExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstStep/NinthExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SecondExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstStep/SecondExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SevententhExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstStep/SevententhExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SeventhExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstStep/SeventhExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SixtenthExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstStep/SixtenthExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SixthExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstStep/SixthExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TenthExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstStep/TenthExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstStep/ThirdExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThirteenthExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstStep/ThirteenthExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TwelfthExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstStep/TwelfthExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FirstExercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SecondExercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstStep/EightenthExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstStep/EighthExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstStep/EleventhExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstStep/FiftenthExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstStep/FifthExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstStep/FirstExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstStep/FourtenthExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstStep/FourthExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstStep/NineteenthExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstStep/NinthExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstStep/SecondExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstStep/SevententhExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstStep/SeventhExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstStep/SixtenthExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstStep/SixthExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstStep/TenthExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstStep/ThirdExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstStep/ThirteenthExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstStep/TwelfthExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SecondStep/FirstExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SecondStep.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,94 +40,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/EightenthExercise.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SecondStep.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/FirstExercise.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/FourtenthExercise.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/EighthExercise.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/NineteenthExercise.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/NinthExercise.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="426">
+              <caret line="112" column="45" selection-start-line="112" selection-start-column="45" selection-end-line="112" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SecondStep/FirstExercise.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="84" selection-start-line="21" selection-start-column="84" selection-end-line="21" selection-end-column="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/EleventhExercise.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/FiftenthExercise.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/FifthExercise.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="34">
+              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+              <folding>
+                <element signature="e#63#64#0" expanded="true" />
+                <element signature="e#97#98#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -141,6 +70,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>in.nextDouble</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>getDoubleNumber</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -153,7 +90,6 @@
         <option value="$PROJECT_DIR$/src/main/java/SeventhExercise.java" />
         <option value="$PROJECT_DIR$/src/main/java/SecondExercise.java" />
         <option value="$PROJECT_DIR$/src/main/java/FourthExercise.java" />
-        <option value="$PROJECT_DIR$/src/main/java/FirstExercise.java" />
         <option value="$PROJECT_DIR$/src/main/java/FifthExercise.java" />
         <option value="$PROJECT_DIR$/src/main/java/EighthExercise.java" />
         <option value="$PROJECT_DIR$/src/main/java/TenthExercise.java" />
@@ -169,6 +105,11 @@
         <option value="$PROJECT_DIR$/src/main/java/NineteenthExercise.java" />
         <option value="$PROJECT_DIR$/src/main/java/FirstStep/SecondExercise.java" />
         <option value="$PROJECT_DIR$/src/main/java/SecondStep/FirstExercise.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Choice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FirstStep/FirstExercise.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FirstExercise.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SecondStep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
       </list>
     </option>
   </component>
@@ -254,6 +195,9 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -273,7 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FirstExercise">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="EightenthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstStep.EightenthExercise" />
       <module name="FirstProject" />
@@ -281,15 +225,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SecondStep.FirstExercise" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="FirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SecondStep.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -301,6 +239,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecondStep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondStep" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SevententhExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstStep.SevententhExercise" />
       <module name="FirstProject" />
@@ -308,20 +259,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SixtenthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstStep.SixtenthExercise" />
-      <module name="FirstProject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FirstExercise" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SecondStep" />
         <item itemvalue="Application.NineteenthExercise" />
         <item itemvalue="Application.EightenthExercise" />
         <item itemvalue="Application.SevententhExercise" />
-        <item itemvalue="Application.SixtenthExercise" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +280,7 @@
       <option name="presentableId" value="Default" />
       <updated>1564041844493</updated>
       <workItem from="1564041846342" duration="6056000" />
-      <workItem from="1564121285706" duration="28349000" />
+      <workItem from="1564121285706" duration="36162000" />
     </task>
     <task id="LOCAL-00001" summary="First Project">
       <created>1564042404679</created>
@@ -485,11 +429,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564390883632</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="First&#10;exercise">
+      <created>1564391807014</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1564391807014</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34405000" />
+    <option name="totallyTimeSpent" value="42218000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -513,7 +464,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2654388" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -555,7 +506,8 @@
     <MESSAGE value="Fiftenth exercise" />
     <MESSAGE value="Sevententh exercise" />
     <MESSAGE value="Nineteenth exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nineteenth exercise" />
+    <MESSAGE value="First&#10;exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="First&#10;exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -584,23 +536,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/ThirdExercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/SixthExercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/SecondExercise.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -647,13 +582,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/ThirteenthExercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/FourtenthExercise.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -668,34 +596,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/SixtenthExercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/TwelfthExercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/SeventhExercise.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/SevententhExercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
         </state>
       </provider>
     </entry>
@@ -713,92 +617,173 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/SeventhExercise.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/TenthExercise.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Choice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/SecondExercise.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/EightenthExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="391">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="6" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/ThirdExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="6" selection-end-line="18" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/EighthExercise.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/FourthExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/EleventhExercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/FiftenthExercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="4" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/FifthExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="4" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/FirstExercise.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/SixthExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="4" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/FourtenthExercise.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/SeventhExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="357">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="4" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/FourthExercise.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/EighthExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/NineteenthExercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="459">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="4" selection-end-line="27" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/NinthExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="452">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="4" selection-end-line="28" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SecondStep/FirstExercise.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/TenthExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="4" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/EleventhExercise.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="84" selection-start-line="21" selection-start-column="84" selection-end-line="21" selection-end-column="84" />
+          <caret line="21" column="1" lean-forward="true" selection-start-line="4" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/TwelfthExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="4" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/ThirteenthExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="4" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/FourtenthExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="2" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/FiftenthExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="4" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/SixtenthExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="6" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/SevententhExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="4" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/EightenthExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="43" column="1" lean-forward="true" selection-start-line="6" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep/NineteenthExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="65" column="1" lean-forward="true" selection-start-line="4" selection-end-line="65" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SecondStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="112" column="45" selection-start-line="112" selection-start-column="45" selection-end-line="112" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding>
+            <element signature="e#63#64#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
