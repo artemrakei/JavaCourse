@@ -1,3 +1,5 @@
+package FirstStep;
+
 public class FourtenthExercise {
     public static int getSquare (int number) {
         int result=number*number;
